@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "top_left_menus",
+  "info": {
+    "name": "top-left-menu"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "body": {
+      "type": "dynamiczone",
+      "components": []
+    }
+  }
+}
